@@ -14,27 +14,25 @@
  * }
  */
 class Solution {
+    int sum = 0;
     public int sumRootToLeaf(TreeNode root) {
-        int r = 0, cur = 0;
-        Deque<Pair<TreeNode, Integer>> s = new ArrayDeque();
-        s.push(new Pair(root, cur));
-        while(!s.isEmpty())
+        sumNodes(root, 0);
+        return sum;
+    }
+    
+    void sumNodes (TreeNode r, int s)
+    {
+        if (r == null)
+            return;
+        s = s*2 + r.val;
+        if (r.left == null && r.right == null)
         {
-            Pair<TreeNode, Integer> p = s.pop();
-            root = p.getKey();
-            cur = p.getValue();
-            if(root != null)
-            {
-                cur = (cur << 1) | root.val;
-                if(root.left == null && root.right == null)
-                    r += cur;
-                else
-                {
-                    s.push(new Pair(root.right, cur));
-                    s.push(new Pair(root.left, cur));
-                }
-            }
+            sum += s;
+            return;
         }
-        return r;
+        if (r.left != null)
+            sumNodes(r.left, s);
+        if (r.right != null)
+            sumNodes(r.right, s);
     }
 }
