@@ -28,11 +28,12 @@ class Solution
 {
     public int binary_to_decimal(String str)
     {
-        int no = 0, n = str.length()-1;
-        for(int i = 0; i <= n; ++i)
+        int no = 0, base = 1;
+        for(int i = str.length()-1; i >= 0; --i)
         {
-            if (str.charAt(n - i) == '1')
-                no += Math.pow(2, i);
+            if (str.charAt(i) == '1')
+                no += base;
+            base = base * 2;
         }
         return no;
     }
