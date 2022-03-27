@@ -1,28 +1,44 @@
 class Solution {
     public int[] kWeakestRows(int[][] mat, int k) {
-        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> a[0] != b[0] ? b[0] - a[0] : b[1] - a[1]);
+       int[] arr = new int[mat.length];
         int[] ans = new int[k];
-        for (int i = 0; i < mat.length; i++) {
-            pq.offer(new int[] {numOnes(mat[i]), i});
-            if (pq.size() > k)
-                pq.poll();
-        }        
-        while (k > 0)
-            ans[--k] = pq.poll()[1];
-        return ans;
-    }
-    
-    private int numOnes(int[] row) {
-        int lo = 0;
-        int hi = row.length;
-        while (lo < hi) {
-            int mid = lo + (hi - lo) / 2;
-            if (row[mid] == 1)
-                lo = mid + 1;
-            else
-                hi = mid;
+        ArrayList<Integer> list = new ArrayList<>();
+        for(int i=0;i<mat.length;i++){
+            int check = count(i,mat);
+            arr[i]= check;
         }
+        int flag =0;
+        while (k!=0 && flag<ans.length){
+            int index = findMin(arr);
+            ans[flag] = index;
+            k--;
+            flag++;
+            arr[index] =Integer.MAX_VALUE;
+        }
+        return ans;
         
-        return lo;
     }
+     public int findMin(int[] arr){
+        int min = Integer.MAX_VALUE;
+        int index =-1;
+        for (int i =0;i<arr.length;i++){
+            if (arr[i]<min){
+                min = arr[i];
+                index = i;
+            }
+        }
+        return index;
+    }
+    public int count(int a, int[][] arr ){
+        int b = arr[a].length;
+        int count=0;
+        for(int i=0;i<b;i++){
+            if(arr[a][i]==0)
+                break;
+            if(arr[a][i]==1)
+                count++;
+        }
+        return count;
+    }
+        
 }
