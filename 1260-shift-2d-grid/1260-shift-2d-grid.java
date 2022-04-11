@@ -1,22 +1,17 @@
 class Solution {
     public List<List<Integer>> shiftGrid(int[][] grid, int k) {
-        int m = grid.length, n = grid[0].length;
-        k %= m * n;
-        reverse(grid, 0, m * n - 1);
-        reverse(grid, 0, k - 1);
-        reverse(grid, k, m * n - 1);
-        List<List<Integer>> ans = new ArrayList<>();
-        for (int[] row : grid)
-            ans.add(Arrays.stream(row).boxed().collect(Collectors.toList()));
-        return ans;
-    }
-    private void reverse(int[][] g, int lo, int hi) {
-        int m = g.length, n = g[0].length;
-        while (lo < hi) {
-            int r = lo / n, c = lo++ % n, i = hi / n, j = hi-- % n, 
-            tmp = g[r][c];
-            g[r][c] = g[i][j];
-            g[i][j] = tmp;
+        List<List<Integer>> result = new ArrayList<List<Integer>>();
+        int total = grid[0].length * grid.length;
+        int i = total - (k%total);
+        for(int r = 0; r < grid.length; r++){
+            ArrayList<Integer> tmp = new ArrayList<Integer>();
+            for(int c = 0; c < grid[0].length; c++){
+                int element = i++%total;
+                tmp.add(grid[element/grid[0].length][element%grid[0].length]);
+            }
+            result.add(tmp);
         }
+        
+        return result; 
     }
 }
