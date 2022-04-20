@@ -14,29 +14,26 @@
  * }
  */
 public class BSTIterator {
-
-    Stack<TreeNode> stack;
     
-    public BSTIterator(TreeNode root) {
-        stack = new Stack<>();
-        fillStack(root);
-    }
+    Deque<TreeNode> stack = new ArrayDeque<>();
 
-    /** @return whether we have a next smallest number */
+    public BSTIterator(TreeNode root) {
+        pushLeft(root);
+    }
+    
+    public int next() {
+        TreeNode node = stack.pollFirst();
+        pushLeft(node.right);
+        return node.val;
+    }
+    
     public boolean hasNext() {
         return !stack.isEmpty();
     }
-
-    /** @return the next smallest number */
-    public int next() {
-        TreeNode curNode = stack.pop();
-        fillStack(curNode.right);
-        return curNode.val;
-    }
-
-    private void fillStack(TreeNode root){
-        while(root != null){
-            stack.push(root);
+    
+    private void pushLeft(TreeNode root) {
+        while (root != null) {
+            stack.addFirst(root);
             root = root.left;
         }
     }
