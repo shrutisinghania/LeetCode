@@ -1,49 +1,32 @@
 class Solution {
-
+    
+    List<List<Integer>> lists;
+    boolean[] added;
+    
     public List<List<Integer>> permuteUnique(int[] nums) {
-        List<List<Integer>> results = new ArrayList<>();
-
-        // count the occurrence of each number
-        HashMap<Integer, Integer> counter = new HashMap<>();
-        for (int num : nums) {
-            if (!counter.containsKey(num))
-                counter.put(num, 0);
-            counter.put(num, counter.get(num) + 1);
-        }
-
-        LinkedList<Integer> comb = new LinkedList<>();
-        this.backtrack(comb, nums.length, counter, results);
-        return results;
+        lists = new ArrayList<>();
+        Arrays.sort(nums);
+        added = new boolean[nums.length];
+        permuteUnique(nums, new ArrayList<>());
+        return lists;
     }
-
-    protected void backtrack(
-            LinkedList<Integer> comb,
-            Integer N,
-            HashMap<Integer, Integer> counter,
-            List<List<Integer>> results) {
-
-        if (comb.size() == N) {
-            // make a deep copy of the resulting permutation,
-            // since the permutation would be backtracked later.
-            results.add(new ArrayList<Integer>(comb));
+    
+    private void permuteUnique(int[] nums, List<Integer> list) {
+        if(list.size() == nums.length) {
+            lists.add(new ArrayList(list));
             return;
         }
-
-        for (Map.Entry<Integer, Integer> entry : counter.entrySet()) {
-            Integer num = entry.getKey();
-            Integer count = entry.getValue();
-            if (count == 0)
+        for(int i = 0; i < nums.length; i++) {
+            if(added[i])
                 continue;
-            // add this number into the current combination
-            comb.addLast(num);
-            counter.put(num, count - 1);
-
-            // continue the exploration
-            backtrack(comb, N, counter, results);
-
-            // revert the choice for the next exploration
-            comb.removeLast();
-            counter.put(num, count);
+            // avoid permute duplicates
+            if(i > 0 && nums[i] == nums[i - 1] && !added[i - 1])
+                continue;
+            list.add(nums[i]);
+            added[i] = true;
+            permuteUnique(nums, list);
+            list.remove(list.size() - 1);
+            added[i] = false;
         }
     }
 }
