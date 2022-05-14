@@ -1,64 +1,29 @@
 class Solution {
-    // Adjacency list
-    Map<Integer, List<Pair<Integer, Integer>>> adj = new HashMap<>();
-    
-    private void dijkstra(int[] signalReceivedAt, int source, int n) {
-        Queue<Pair<Integer, Integer>> pq = new PriorityQueue<Pair<Integer,Integer>>
-            (Comparator.comparing(Pair::getKey));
-        pq.add(new Pair(0, source));
-        
-        // Time for starting node is 0
-        signalReceivedAt[source] = 0;
-        
-        while (!pq.isEmpty()) {
-            Pair<Integer, Integer> topPair = pq.remove();
-            
-            int currNode = topPair.getValue();
-            int currNodeTime = topPair.getKey();
-            
-            if (currNodeTime > signalReceivedAt[currNode]) 
-                continue;
-            
-            if (!adj.containsKey(currNode)) 
-                continue;
-            
-            // Broadcast the signal to adjacent nodes
-            for (Pair<Integer, Integer> edge : adj.get(currNode)) {
-                int time = edge.getKey();
-                int neighborNode = edge.getValue();
-                
-                // Fastest signal time for neighborNode so far
-                // signalReceivedAt[currNode] + time : 
-                // time when signal reaches neighborNode
-                if (signalReceivedAt[neighborNode] > currNodeTime + time) {
-                    signalReceivedAt[neighborNode] = currNodeTime + time;
-                    pq.add(new Pair(signalReceivedAt[neighborNode], neighborNode));
+    public int networkDelayTime(int[][] times, int n, int k) {
+        int[] distance = new int[n + 1];
+        Arrays.fill(distance, Integer.MAX_VALUE);
+        distance[k] = 0;
+        //we need to run n-1 times over all edges and calculate distances
+        //we run one more time to check for a negative cycle
+        for (int i = 0; i < n; i++) {
+            boolean anyChanged = false;
+            for (int[] edge : times) {
+                if (distance[edge[0]] == Integer.MAX_VALUE) 
+                    continue;
+                if (distance[edge[0]] + edge[2] < distance[edge[1]]) {
+                    if (i == n-1) 
+                        //found negative cycle
+                        return -1;
+                    distance[edge[1]] = distance[edge[0]] + edge[2];
+                    anyChanged = true;
                 }
             }
+            if (!anyChanged) 
+                break;
         }
-    }
-    
-    public int networkDelayTime(int[][] times, int n, int k) {
-        // Build the adjacency list
-        for (int[] time : times) {
-            int source = time[0];
-            int dest = time[1];
-            int travelTime = time[2];
-            
-            adj.putIfAbsent(source, new ArrayList<>());
-            adj.get(source).add(new Pair(travelTime, dest));
-        }
-        
-        int[] signalReceivedAt = new int[n + 1];
-        Arrays.fill(signalReceivedAt, Integer.MAX_VALUE);
-        
-        dijkstra(signalReceivedAt, k, n);
-        
-        int answer = Integer.MIN_VALUE;
+        int max = Integer.MIN_VALUE;
         for (int i = 1; i <= n; i++) 
-            answer = Math.max(answer, signalReceivedAt[i]);
-        
-        // INT_MAX signifies atleat one node is unreachable
-        return answer == Integer.MAX_VALUE ? -1 : answer;
+            max = Math.max(max, distance[i]);
+        return max == Integer.MAX_VALUE ? -1 : max;
     }
 }
