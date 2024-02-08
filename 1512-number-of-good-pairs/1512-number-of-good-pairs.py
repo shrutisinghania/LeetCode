@@ -3,14 +3,12 @@ class Solution:
         d = {}
         for ind, val in enumerate(nums):
             if val not in d.keys():
-                d[val] = [ind]
+                d[val] = 1
             else:
-                d[val].append(ind)
+                d[val] += 1
         c = 0
         for i, v in d.items():
-            if len(v) > 1:
-                for k in range(len(v)):
-                    for m in range(k + 1, len(v)):
-                        c += 1
+            if v > 1:
+                c += (v * (v - 1)) // 2
         return c
             
