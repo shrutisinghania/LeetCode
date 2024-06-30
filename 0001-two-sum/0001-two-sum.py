@@ -6,4 +6,4 @@ class Solution:
                     return [ind, nums.index(target - i, ind+1)]
             except:
                 continue
-                
+        return -1
