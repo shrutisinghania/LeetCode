@@ -10,11 +10,9 @@ class Solution:
                 return 
             if not l1:
                 l.next = l2
-                findMin(l.next, l1, l2.next) 
                 return
             if not l2:
                 l.next = l1
-                findMin(l.next, l1.next, l2) 
                 return
             if l1.val < l2.val:
                 l.next = l1
