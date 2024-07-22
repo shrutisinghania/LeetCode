@@ -10,18 +10,17 @@ class Solution:
         def findDepth(self, root, c, r):
             if not root:
                 return
-            self.d[c].append((root.val, r))
+            self.d[c].append((r, root.val))
             findDepth(self, root.left, c - 1, r+1)
             findDepth(self, root.right, c + 1, r+1)            
         
         self.d = defaultdict(list)
         findDepth(self, root, 0, 0)
-        k = sorted(self.d)
         res = []
-        for i in k:
+        for i in sorted(self.d):
             l = []
-            for a, b in sorted(self.d[i], key=lambda tup: (tup[1], tup[0])):
-                l.append(a)
+            for a, b in sorted(self.d[i]):
+                l.append(b)
             res.append(l)
         return res
         
