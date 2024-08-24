@@ -5,26 +5,19 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def widthOfBinaryTree(self, root: TreeNode) -> int:
-        if not root:
-            return 0
+    def widthOfBinaryTree(self, root: Optional[TreeNode]) -> int:
+        level_info = defaultdict(list)
         
-        queue = deque([(root, 0)])
+        def get_level_info(root, level, n):
+            if not root:
+                return
+            level_info[level].append(n)
+            get_level_info(root.left, level+1, 2*n+1)
+            get_level_info(root.right, level+1, 2*n+2)
+        
+        get_level_info(root, 0, 0)
         max_width = 0
-        
-        while queue:
-            level_length = len(queue)
-            _, level_start = queue[0]
-            
-            for i in range(level_length):
-                node, index = queue.popleft()
-                
-                if node.left:
-                    queue.append((node.left, 2*index))
-                
-                if node.right:
-                    queue.append((node.right, 2*index+1))
-                    
-            max_width = max(max_width, index - level_start + 1)
-            
+        for key, value in level_info.items():
+            width = value[-1] - value[0] + 1
+            max_width = max(max_width, width)
         return max_width
