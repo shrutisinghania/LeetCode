@@ -7,7 +7,7 @@ class Solution:
             r.append(node)
             for i in graph[node]:
                 dfs(i, r.copy())
-            if r[-1] == n:
+            if node == n:
                 result.append(r)
         dfs(0, [])
         return result
