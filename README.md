@@ -36,4 +36,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/shrutisinghania/LeetCode/tree/master/0733-flood-fill) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/shrutisinghania/LeetCode/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
