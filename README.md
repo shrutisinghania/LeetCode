@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/shrutisinghania/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/shrutisinghania/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0152-maximum-product-subarray](https://github.com/shrutisinghania/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0733-flood-fill](https://github.com/shrutisinghania/LeetCode/tree/master/0733-flood-fill) |
 ## Matrix
 |  |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shrutisinghania/LeetCode/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/shrutisinghania/LeetCode/tree/master/0152-maximum-product-subarray) |
 ## Hash Table
 |  |
 | ------- |
