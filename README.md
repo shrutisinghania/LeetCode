@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/shrutisinghania/LeetCode/tree/master/0455-assign-cookies) |
+| [0908-middle-of-the-linked-list](https://github.com/shrutisinghania/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -98,4 +99,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/shrutisinghania/LeetCode/tree/master/0455-assign-cookies) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/shrutisinghania/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
