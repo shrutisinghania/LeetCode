@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/shrutisinghania/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0152-maximum-product-subarray](https://github.com/shrutisinghania/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/shrutisinghania/LeetCode/tree/master/0200-number-of-islands) |
+| [0455-assign-cookies](https://github.com/shrutisinghania/LeetCode/tree/master/0455-assign-cookies) |
 | [0733-flood-fill](https://github.com/shrutisinghania/LeetCode/tree/master/0733-flood-fill) |
 ## Matrix
 |  |
@@ -85,4 +86,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/shrutisinghania/LeetCode/tree/master/0200-number-of-islands) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/shrutisinghania/LeetCode/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/shrutisinghania/LeetCode/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/shrutisinghania/LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
