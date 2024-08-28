@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/shrutisinghania/LeetCode/tree/master/0733-flood-fill) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/shrutisinghania/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0813-all-paths-from-source-to-target](https://github.com/shrutisinghania/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
+| [2035-count-sub-islands](https://github.com/shrutisinghania/LeetCode/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/shrutisinghania/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/shrutisinghania/LeetCode/tree/master/0733-flood-fill) |
 | [0813-all-paths-from-source-to-target](https://github.com/shrutisinghania/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
+| [2035-count-sub-islands](https://github.com/shrutisinghania/LeetCode/tree/master/2035-count-sub-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -46,12 +48,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/shrutisinghania/LeetCode/tree/master/0200-number-of-islands) |
 | [0455-assign-cookies](https://github.com/shrutisinghania/LeetCode/tree/master/0455-assign-cookies) |
 | [0733-flood-fill](https://github.com/shrutisinghania/LeetCode/tree/master/0733-flood-fill) |
+| [2035-count-sub-islands](https://github.com/shrutisinghania/LeetCode/tree/master/2035-count-sub-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/shrutisinghania/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/shrutisinghania/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/shrutisinghania/LeetCode/tree/master/0733-flood-fill) |
+| [2035-count-sub-islands](https://github.com/shrutisinghania/LeetCode/tree/master/2035-count-sub-islands) |
 ## Graph
 |  |
 | ------- |
@@ -87,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/shrutisinghania/LeetCode/tree/master/0200-number-of-islands) |
+| [2035-count-sub-islands](https://github.com/shrutisinghania/LeetCode/tree/master/2035-count-sub-islands) |
 ## Two Pointers
 |  |
 | ------- |
