@@ -123,4 +123,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shrutisinghania/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/shrutisinghania/LeetCode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/shrutisinghania/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
