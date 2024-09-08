@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shrutisinghania/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/shrutisinghania/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0937-online-stock-span](https://github.com/shrutisinghania/LeetCode/tree/master/0937-online-stock-span) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shrutisinghania/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0937-online-stock-span](https://github.com/shrutisinghania/LeetCode/tree/master/0937-online-stock-span) |
 ## String
 |  |
 | ------- |
@@ -221,4 +223,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shrutisinghania/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/shrutisinghania/LeetCode/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/shrutisinghania/LeetCode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
