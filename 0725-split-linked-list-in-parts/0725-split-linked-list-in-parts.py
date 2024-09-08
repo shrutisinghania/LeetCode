@@ -7,23 +7,30 @@ class Solution:
     def splitListToParts(self, head: Optional[ListNode], k: int) -> List[Optional[ListNode]]:
         l = []
         curr = head
+        n = 0
         while curr:
-            l.append(curr)
+            n += 1
             curr = curr.next
-        n = len(l)
         rem = n % k
         q = n // k
         res = []
-        i = 0
+        
+        curr = head
+        nxt = head
         for _ in range(k):
-            maxrange = i + q - 1
+            maxrange = q
             if rem > 0:
                 maxrange += 1
                 rem -= 1
-            if i < len(l):
-                l[maxrange].next = None
-                res.append(l[i])
+            if curr:
+                res.append(curr)
             else:
                 res.append(None)
-            i = maxrange + 1
+                continue
+            for _ in range(maxrange-1):
+                curr = curr.next
+            if curr:
+                nxt = curr.next
+                curr.next = None
+                curr = nxt
         return res
