@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shrutisinghania/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shrutisinghania/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/shrutisinghania/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/shrutisinghania/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shrutisinghania/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/shrutisinghania/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shrutisinghania/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/shrutisinghania/LeetCode/tree/master/0062-unique-paths) |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shrutisinghania/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/shrutisinghania/LeetCode/tree/master/0050-powx-n) |
 ## Combinatorics
 |  |
