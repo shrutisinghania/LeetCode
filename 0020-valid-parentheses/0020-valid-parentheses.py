@@ -1,18 +1,19 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         stack = []
-        for char in s:
-            if char == '(' or char == '{' or char == '[':
-                stack.append(char)
+        for character in s:
+            if character in ('(', '{', '['):
+                stack.append(character)
             else:
-                if not stack:
+                if len(stack) == 0:
                     return False
-                if char == ')' and stack[-1] == '(':
-                    stack.pop()
-                elif char == '}' and stack[-1] == '{':
-                    stack.pop()
-                elif char == ']' and stack[-1] == '[':
-                    stack.pop()
-                else:
+                previous_character = stack.pop(-1)
+                if character == ')' and previous_character != '(':
                     return False
-        return not stack
+                elif character == '}' and previous_character != '{':
+                    return False
+                elif character == ']' and previous_character != '[':
+                    return False
+        if len(stack) != 0:
+            return False
+        return True
