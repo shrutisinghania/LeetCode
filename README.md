@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/shrutisinghania/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/shrutisinghania/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0937-online-stock-span](https://github.com/shrutisinghania/LeetCode/tree/master/0937-online-stock-span) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/shrutisinghania/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/shrutisinghania/LeetCode/tree/master/0020-valid-parentheses) |
 | [0165-compare-version-numbers](https://github.com/shrutisinghania/LeetCode/tree/master/0165-compare-version-numbers) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/shrutisinghania/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/shrutisinghania/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Quickselect
 |  |
