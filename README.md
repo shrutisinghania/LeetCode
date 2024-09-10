@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/shrutisinghania/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/shrutisinghania/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shrutisinghania/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0165-compare-version-numbers](https://github.com/shrutisinghania/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0455-assign-cookies](https://github.com/shrutisinghania/LeetCode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/shrutisinghania/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Greedy
@@ -251,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shrutisinghania/LeetCode/tree/master/0020-valid-parentheses) |
+| [0165-compare-version-numbers](https://github.com/shrutisinghania/LeetCode/tree/master/0165-compare-version-numbers) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/shrutisinghania/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Quickselect
 |  |
