@@ -11,15 +11,15 @@ class Solution:
         
 
         def trav(r):
+            nonlocal d
             if not r:
                 return 0
-            # if not r.left and not r.right:
-            #     return r.val 
+            if not r.left and not r.right:
+                d = max(d, r.val)
+                return r.val 
             l = trav(r.left)
             ri = trav(r.right)
-            nonlocal d
             d = max(d, r.val + l + ri)
-            # print(r.val , l , ri)
             d = max(d,r.val, r.val + max(l, ri) )
             return max(r.val, r.val + max(l, ri))
         
