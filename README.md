@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/shrutisinghania/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/shrutisinghania/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/shrutisinghania/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+| [1493-frog-position-after-t-seconds](https://github.com/shrutisinghania/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/shrutisinghania/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/shrutisinghania/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1484-linked-list-in-binary-tree](https://github.com/shrutisinghania/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+| [1493-frog-position-after-t-seconds](https://github.com/shrutisinghania/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
 | [2035-count-sub-islands](https://github.com/shrutisinghania/LeetCode/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
 |  |
@@ -45,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/shrutisinghania/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/shrutisinghania/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1484-linked-list-in-binary-tree](https://github.com/shrutisinghania/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+| [1493-frog-position-after-t-seconds](https://github.com/shrutisinghania/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
 | [2035-count-sub-islands](https://github.com/shrutisinghania/LeetCode/tree/master/2035-count-sub-islands) |
 ## Binary Tree
 |  |
@@ -104,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/shrutisinghania/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/shrutisinghania/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1325-path-with-maximum-probability](https://github.com/shrutisinghania/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1493-frog-position-after-t-seconds](https://github.com/shrutisinghania/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
 | [1916-find-center-of-star-graph](https://github.com/shrutisinghania/LeetCode/tree/master/1916-find-center-of-star-graph) |
 ## Topological Sort
 |  |
