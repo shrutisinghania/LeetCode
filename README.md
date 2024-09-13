@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/shrutisinghania/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shrutisinghania/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/shrutisinghania/LeetCode/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/shrutisinghania/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/shrutisinghania/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shrutisinghania/LeetCode/tree/master/0229-majority-element-ii) |
 | [0645-set-mismatch](https://github.com/shrutisinghania/LeetCode/tree/master/0645-set-mismatch) |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/shrutisinghania/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/shrutisinghania/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shrutisinghania/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/shrutisinghania/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/shrutisinghania/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/shrutisinghania/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/shrutisinghania/LeetCode/tree/master/0455-assign-cookies) |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/shrutisinghania/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shrutisinghania/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/shrutisinghania/LeetCode/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/shrutisinghania/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/shrutisinghania/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shrutisinghania/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/shrutisinghania/LeetCode/tree/master/0725-split-linked-list-in-parts) |
