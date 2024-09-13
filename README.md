@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1319-unique-number-of-occurrences](https://github.com/shrutisinghania/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1325-path-with-maximum-probability](https://github.com/shrutisinghania/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/shrutisinghania/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/shrutisinghania/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shrutisinghania/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/shrutisinghania/LeetCode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shrutisinghania/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
