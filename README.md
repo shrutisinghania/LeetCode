@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/shrutisinghania/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shrutisinghania/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shrutisinghania/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/shrutisinghania/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/shrutisinghania/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0937-online-stock-span](https://github.com/shrutisinghania/LeetCode/tree/master/0937-online-stock-span) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/shrutisinghania/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/shrutisinghania/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shrutisinghania/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/shrutisinghania/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0234-palindrome-linked-list](https://github.com/shrutisinghania/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/shrutisinghania/LeetCode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/shrutisinghania/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Greedy
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/shrutisinghania/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shrutisinghania/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/shrutisinghania/LeetCode/tree/master/0146-lru-cache) |
+| [0234-palindrome-linked-list](https://github.com/shrutisinghania/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shrutisinghania/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/shrutisinghania/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0908-middle-of-the-linked-list](https://github.com/shrutisinghania/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -225,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/shrutisinghania/LeetCode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/shrutisinghania/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/shrutisinghania/LeetCode/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/shrutisinghania/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Combinatorics
 |  |
 | ------- |
