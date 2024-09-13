@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/shrutisinghania/LeetCode/tree/master/0733-flood-fill) |
 | [1319-unique-number-of-occurrences](https://github.com/shrutisinghania/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1325-path-with-maximum-probability](https://github.com/shrutisinghania/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1435-xor-queries-of-a-subarray](https://github.com/shrutisinghania/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shrutisinghania/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/shrutisinghania/LeetCode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shrutisinghania/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/shrutisinghania/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shrutisinghania/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Monotonic Stack
 |  |
@@ -298,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/shrutisinghania/LeetCode/tree/master/0645-set-mismatch) |
+| [1435-xor-queries-of-a-subarray](https://github.com/shrutisinghania/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/shrutisinghania/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Doubly-Linked List
 |  |
