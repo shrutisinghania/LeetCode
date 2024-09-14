@@ -8,14 +8,10 @@ class Solution:
         if not node or not node.next:
             return node
         head = node
-        res = head
-        curr = node.next
-        while curr:
-            if curr.val == head.val:
+        curr = node
+        while curr and curr.next:
+            if curr.val == curr.next.val:
+                curr.next = curr.next.next
+            else:
                 curr = curr.next
-                head.next = None
-                continue
-            head.next = curr 
-            head = head.next
-            curr = curr.next
-        return res
+        return head
