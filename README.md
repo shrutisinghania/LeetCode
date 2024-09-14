@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/shrutisinghania/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shrutisinghania/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/shrutisinghania/LeetCode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/shrutisinghania/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shrutisinghania/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shrutisinghania/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/shrutisinghania/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/shrutisinghania/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shrutisinghania/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/shrutisinghania/LeetCode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/shrutisinghania/LeetCode/tree/master/0070-climbing-stairs) |
 | [2155-find-missing-observations](https://github.com/shrutisinghania/LeetCode/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/shrutisinghania/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
@@ -321,4 +323,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shrutisinghania/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shrutisinghania/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
