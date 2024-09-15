@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/shrutisinghania/LeetCode/tree/master/0229-majority-element-ii) |
 | [0645-set-mismatch](https://github.com/shrutisinghania/LeetCode/tree/master/0645-set-mismatch) |
 | [1319-unique-number-of-occurrences](https://github.com/shrutisinghania/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/shrutisinghania/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shrutisinghania/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Union Find
 |  |
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/shrutisinghania/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/shrutisinghania/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shrutisinghania/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Monotonic Stack
 |  |
@@ -313,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/shrutisinghania/LeetCode/tree/master/0020-valid-parentheses) |
 | [0165-compare-version-numbers](https://github.com/shrutisinghania/LeetCode/tree/master/0165-compare-version-numbers) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/shrutisinghania/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/shrutisinghania/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/shrutisinghania/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Quickselect
 |  |
@@ -332,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0645-set-mismatch](https://github.com/shrutisinghania/LeetCode/tree/master/0645-set-mismatch) |
 | [1435-xor-queries-of-a-subarray](https://github.com/shrutisinghania/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/shrutisinghania/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/shrutisinghania/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/shrutisinghania/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Doubly-Linked List
