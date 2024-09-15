@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/shrutisinghania/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shrutisinghania/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/shrutisinghania/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/shrutisinghania/LeetCode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/shrutisinghania/LeetCode/tree/master/0229-majority-element-ii) |
 | [0645-set-mismatch](https://github.com/shrutisinghania/LeetCode/tree/master/0645-set-mismatch) |
 | [1319-unique-number-of-occurrences](https://github.com/shrutisinghania/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/shrutisinghania/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shrutisinghania/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/shrutisinghania/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0202-happy-number](https://github.com/shrutisinghania/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/shrutisinghania/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/shrutisinghania/LeetCode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/shrutisinghania/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -255,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/shrutisinghania/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/shrutisinghania/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shrutisinghania/LeetCode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/shrutisinghania/LeetCode/tree/master/0202-happy-number) |
 | [2155-find-missing-observations](https://github.com/shrutisinghania/LeetCode/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/shrutisinghania/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
