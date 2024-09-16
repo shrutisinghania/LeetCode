@@ -1,10 +1,8 @@
 class Solution:
     def longestIncreasingPath(self, matrix: List[List[int]]) -> int:
-        def findMax(i, j):
-            
+        def findMax(i, j):  
             if dp[i][j] != -1:
                 return dp[i][j]
-
             dir = [[0,1], [0,-1], [1,0], [-1,0]]
             max_neighbour = 0
             for x, y in dir:
