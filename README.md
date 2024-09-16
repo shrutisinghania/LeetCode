@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/shrutisinghania/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shrutisinghania/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shrutisinghania/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0041-first-missing-positive](https://github.com/shrutisinghania/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/shrutisinghania/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/shrutisinghania/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shrutisinghania/LeetCode/tree/master/0053-maximum-subarray) |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shrutisinghania/LeetCode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/shrutisinghania/LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/shrutisinghania/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shrutisinghania/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/shrutisinghania/LeetCode/tree/master/0128-longest-consecutive-sequence) |
