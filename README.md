@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/shrutisinghania/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shrutisinghania/LeetCode/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shrutisinghania/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shrutisinghania/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0543-diameter-of-binary-tree](https://github.com/shrutisinghania/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shrutisinghania/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/shrutisinghania/LeetCode/tree/master/0733-flood-fill) |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/shrutisinghania/LeetCode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/shrutisinghania/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shrutisinghania/LeetCode/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shrutisinghania/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shrutisinghania/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/shrutisinghania/LeetCode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/shrutisinghania/LeetCode/tree/master/0801-is-graph-bipartite) |
@@ -94,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/shrutisinghania/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shrutisinghania/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/shrutisinghania/LeetCode/tree/master/0229-majority-element-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shrutisinghania/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0455-assign-cookies](https://github.com/shrutisinghania/LeetCode/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/shrutisinghania/LeetCode/tree/master/0645-set-mismatch) |
 | [0733-flood-fill](https://github.com/shrutisinghania/LeetCode/tree/master/0733-flood-fill) |
@@ -116,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/shrutisinghania/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shrutisinghania/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/shrutisinghania/LeetCode/tree/master/0200-number-of-islands) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shrutisinghania/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0733-flood-fill](https://github.com/shrutisinghania/LeetCode/tree/master/0733-flood-fill) |
 | [2035-count-sub-islands](https://github.com/shrutisinghania/LeetCode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shrutisinghania/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -125,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0133-clone-graph](https://github.com/shrutisinghania/LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/shrutisinghania/LeetCode/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shrutisinghania/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0801-is-graph-bipartite](https://github.com/shrutisinghania/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/shrutisinghania/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1325-path-with-maximum-probability](https://github.com/shrutisinghania/LeetCode/tree/master/1325-path-with-maximum-probability) |
@@ -134,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/shrutisinghania/LeetCode/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shrutisinghania/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -170,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/shrutisinghania/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/shrutisinghania/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/shrutisinghania/LeetCode/tree/master/0198-house-robber) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shrutisinghania/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -360,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shrutisinghania/LeetCode/tree/master/0070-climbing-stairs) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shrutisinghania/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Brainteaser
 |  |
 | ------- |
