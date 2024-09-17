@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2155-find-missing-observations](https://github.com/shrutisinghania/LeetCode/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/shrutisinghania/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/shrutisinghania/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/shrutisinghania/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shrutisinghania/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Matrix
 |  |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/shrutisinghania/LeetCode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/shrutisinghania/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shrutisinghania/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/shrutisinghania/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Greedy
 |  |
 | ------- |
@@ -301,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2132-convert-1d-array-into-2d-array](https://github.com/shrutisinghania/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/shrutisinghania/LeetCode/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/shrutisinghania/LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/shrutisinghania/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -308,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/shrutisinghania/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/shrutisinghania/LeetCode/tree/master/0218-the-skyline-problem) |
 | [1325-path-with-maximum-probability](https://github.com/shrutisinghania/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/shrutisinghania/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Shortest Path
 |  |
 | ------- |
