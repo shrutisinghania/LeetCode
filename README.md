@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/shrutisinghania/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shrutisinghania/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/shrutisinghania/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shrutisinghania/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/shrutisinghania/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/shrutisinghania/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
 ## Depth-First Search
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0776-n-ary-tree-postorder-traversal](https://github.com/shrutisinghania/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/shrutisinghania/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/shrutisinghania/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shrutisinghania/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/shrutisinghania/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/shrutisinghania/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
 | [2035-count-sub-islands](https://github.com/shrutisinghania/LeetCode/tree/master/2035-count-sub-islands) |
@@ -55,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/shrutisinghania/LeetCode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/shrutisinghania/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/shrutisinghania/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shrutisinghania/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/shrutisinghania/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/shrutisinghania/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
 | [2035-count-sub-islands](https://github.com/shrutisinghania/LeetCode/tree/master/2035-count-sub-islands) |
@@ -71,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shrutisinghania/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shrutisinghania/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shrutisinghania/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shrutisinghania/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/shrutisinghania/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Array
 |  |
