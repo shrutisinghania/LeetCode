@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/shrutisinghania/LeetCode/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/shrutisinghania/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0645-set-mismatch](https://github.com/shrutisinghania/LeetCode/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/shrutisinghania/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/shrutisinghania/LeetCode/tree/master/0733-flood-fill) |
 | [1319-unique-number-of-occurrences](https://github.com/shrutisinghania/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1325-path-with-maximum-probability](https://github.com/shrutisinghania/LeetCode/tree/master/1325-path-with-maximum-probability) |
@@ -337,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shrutisinghania/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/shrutisinghania/LeetCode/tree/master/0724-find-pivot-index) |
 | [1435-xor-queries-of-a-subarray](https://github.com/shrutisinghania/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/shrutisinghania/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1833-find-the-highest-altitude](https://github.com/shrutisinghania/LeetCode/tree/master/1833-find-the-highest-altitude) |
