@@ -1,8 +1,6 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        n = len(nums)
-        a = [[] for _ in range(n)]
-        d = defaultdict(int)
+        d = {}
         for i in nums:
             d[i] = d.get(i, 0) + 1
 
