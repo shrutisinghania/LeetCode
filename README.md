@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/shrutisinghania/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shrutisinghania/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shrutisinghania/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0039-combination-sum](https://github.com/shrutisinghania/LeetCode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/shrutisinghania/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/shrutisinghania/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/shrutisinghania/LeetCode/tree/master/0046-permutations) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/shrutisinghania/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/shrutisinghania/LeetCode/tree/master/0046-permutations) |
 | [0813-all-paths-from-source-to-target](https://github.com/shrutisinghania/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 ## Stack
