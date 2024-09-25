@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/shrutisinghania/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shrutisinghania/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shrutisinghania/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/shrutisinghania/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shrutisinghania/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/shrutisinghania/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/shrutisinghania/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shrutisinghania/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shrutisinghania/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0543-diameter-of-binary-tree](https://github.com/shrutisinghania/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/shrutisinghania/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shrutisinghania/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/shrutisinghania/LeetCode/tree/master/0733-flood-fill) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/shrutisinghania/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/shrutisinghania/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shrutisinghania/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shrutisinghania/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/shrutisinghania/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shrutisinghania/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/shrutisinghania/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shrutisinghania/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -494,4 +497,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/shrutisinghania/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shrutisinghania/LeetCode/tree/master/0140-word-break-ii) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/shrutisinghania/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/shrutisinghania/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/shrutisinghania/LeetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
